@@ -1,1 +1,1 @@
-DJANGO TODO# django-todo
+DJANGO TODO
